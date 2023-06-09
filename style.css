@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+         *{
+               
+               margin:0;
+               padding:0;
+               font-family: 'Ubuntu Mono', monospace;
+          }
+          .main-cont{
+               margin-top:20px;
+               margin-bottom-20px;
+               width: 100%;
+          }
+          .cont{
+               display:flex;
+               width:100%;
+          }
+          .cont img{
+               height:80px;
+          }
+          .icons-cont{
+               margin-left:26vw
+          }
+          .add{
+               margin-top: 10px;
+          }
+          .adds img{
+               width:62rem;
+               margin:0;
+               padding:0;
+               margin-left:-5px;
+               margin-right:-5px;
+          }
+          .adds-info{
+               display:flex;
+          }
+          .adds-info img{
+               height:140px;
+               margin-top:20px;
+               margin-left:10px;
+          }
+          .adds-info h4{
+               margin-top:35px;
+               margin-left:40px;
+               font-size:30px;
+          }
+          .adds-info p{
+               margin-top:10px;
+               margin-left:40px;
+               font-size:25px;
+          }
+          .span{
+               font-size:35px;
+               margin-left:30px;
+          }
+          .install{
+               height:80px;
+               background-color:lightskyblue;
+               margin:30px 70px;
+               display:flex;
+               justify-content:center;  
+                            
+          }
+          .install h3{
+               font-size:35px;
+               margin-top:20px;
+          }
+          .video{
+               width:100%;
+          }
+          .img-channel{
+               width:200px;
+          }
+          .video2{
+               height:900px;
+               margin:20px 20px;
+               border-radius:10px;
+          }
+          .shorts-list{
+               display:flex;
+               overflow:scroll;
+          }
+          .shorts-cont{
+               margin-top:50px;
+          }
+          .shorts-cont h2{
+               font-size:55px;
+               font-weight:50px;
+               margin:20px 4px 0 40px;
+          }
+          .short-logo{
+               display:flex;
+          }
+          .short-logo img{
+               width:100px;
+               margin-left:50px;
+          }
+          
+          section {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        input[type=search] {
+            width: 550px;
+            background-color: black;
+            color: white;
+            padding: 8px 20px 8px 45px;
+            font-size: 15px;
+            border-radius:7px;
+            filter: brightness(170%);
+        }        
+        .home{
+               position:fixed;
+               margin-top:1660px;
+               background-color:white;
+          }
+          .img5{
+               width:140px;
+               margin:0 23px;
+          }
+          .img6{
+               width:200px;
+          }
+          .home{
+               position:fixed;
+               margin-top:1660px;
+               background-color:white;
+          }
+          .img5{
+               width:140px;
+               margin:0 23px;
+          }
+          .img6{
+               width:200px;
+          }
+          .img-search{
+               width:50px;
+               margin:0 10px;
+               border-radius:10px;
+          }
+          .section{
+               background:black;
+          }
