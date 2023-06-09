@@ -1,2 +1,2 @@
 # player
-Tbisnis vide player like youtube 
+This is the video player like youtube 
